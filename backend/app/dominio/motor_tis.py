@@ -40,7 +40,7 @@ PESO_RADIACION = Decimal("0.15")
 PESO_HUMEDAD = Decimal("0.10")
 
 DELTA_T_MAXIMO = Decimal("3")
-LIMITE_APTO = Decimal("20")
+LIMITE_APTO = Decimal("25")
 LIMITE_PRECAUCION = Decimal("40")
 LIMITE_RIESGO_DERIVA = Decimal("60")
 
